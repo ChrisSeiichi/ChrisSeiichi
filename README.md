@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisSeiichi
-- 👀 I’m interested in data science, ML Ops and Ptyhon
+- 👀 I’m interested in data science, ML Ops and Python
 - 🌱 I’m currently learning ...
 
 <!---
